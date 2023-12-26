@@ -1,6 +1,9 @@
 # graded_assignment_2
 
-Please make all changes to GA2-part1_complete.ipynb.
+Every time you need to make changes to the notebook, 
+go to the GA2_notebooks folder, find the latest version, and download it on your computer.
+Name the notebook 'GA2-part(x)_version_(y)'
+where x is the part of the assignment you worked on and the version is amount of times you have worked on this same part.
 
 Create a Conda Environment using GA2_Geopandas_Spec.txt:
   Open Anaconda
@@ -10,8 +13,8 @@ Create a Conda Environment using GA2_Geopandas_Spec.txt:
   then locate the file GA2_Geopandas_Spec.txt
   click import
 
-  Everytime you launch Jupyter from Anaconda, make sure have the correct environment selected.
+  Every time you launch Jupyter from Anaconda, make sure you have the correct environment selected.
 
-Do not change GA2_template.ipynb
+Please don't change the GA2_template.ipynb
 
 Thank you
